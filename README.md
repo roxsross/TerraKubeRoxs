@@ -113,8 +113,7 @@ Te recomiendo conectar el backend algun provider asi guardas los state
    ```bash
    terraform destroy
    ```
-```
-```
+
 y podras usar el gestor preferido como k9s o lens para jugar con minikube
 
 ```
