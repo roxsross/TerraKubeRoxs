@@ -114,6 +114,7 @@ Te recomiendo conectar el backend algun provider asi guardas los state
    terraform destroy
    ```
 ```
+```
 y podras usar el gestor preferido como k9s o lens para jugar con minikube
 
 ```
@@ -125,6 +126,7 @@ Changes to Outputs:
   + cluster_context_hostname               = (known after apply)
   + cluster_name                           = "terrakuberoxs"
 ```
+
 ## Pasos
 
 ```
