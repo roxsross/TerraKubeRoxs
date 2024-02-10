@@ -42,7 +42,7 @@ Minikube es una herramienta que facilita la creación y gestión de clústeres d
 **Características clave:**
 - Desarrollo local: Permite a los desarrolladores trabajar con clústeres de Kubernetes en sus máquinas locales.
 - Fácil instalación: Minikube se instala de manera sencilla y es compatible con diversas plataformas.
-- Integración con proveedores de hipervisores: Puede utilizar diferentes proveedores de hipervisores, como VirtualBox, Hyper-V o KVM.
+- Integración con proveedores de hipervisores: Puede utilizar diferentes proveedores, como Docker, VirtualBox, Hyper-V o KVM.
 - Soporte para addons: Permite la adición de complementos para ampliar las capacidades del clúster local.
 
 ## Terraform y Minikube Onfire
